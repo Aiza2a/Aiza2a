@@ -4,8 +4,8 @@
 
 
 ## hi, i am hpilosit :3 ≽^•⩊•^≼
-An ordinary college student in a university.
-<br/>kawaii anime boy on the internet.
+咕咕咕
+<br/>
 
 
 ## 📫 Contact
