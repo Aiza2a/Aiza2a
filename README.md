@@ -1,6 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:HpilOsit?theme=rule34">
+<img align="top" src="https://count.getloli.com/get/@:HpilOsit?theme=rule34">
 
-<img align="left" src=".github/assets/banner.jpg" width="40%" height="40%" />
+<img align="bottom" src=".github/assets/banner.jpg" width="40%" height="40%" />
 
 
 ## hi, i am hpilosit :3 ≽^•⩊•^≼
