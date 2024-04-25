@@ -1,8 +1,8 @@
 <img align="right" src=".github/assets/banner.jpg" width="40%" height="40%" />
 
 
-## haii, i am ririxi :3 ≽^•⩊•^≼
-Full-Stack Developer focused on open-source projects.
+## hi, i am hpilosit :3 ≽^•⩊•^≼
+A simple student.
 <br/>Silly anime girl on the internet.
 
 ## 💼 Experience
