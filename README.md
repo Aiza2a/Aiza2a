@@ -1,4 +1,4 @@
-<img align="bottom" src="https://count.getloli.com/get/@:HpilOsit?theme=rule34">
+<img align="middle" src="https://count.getloli.com/get/@:HpilOsit?theme=rule34">
 
 <img align="right" src=".github/assets/banner.jpg" width="40%" height="40%" />
 
