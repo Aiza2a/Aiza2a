@@ -9,8 +9,8 @@
 
 
 ## 📫 Contact
-- You can email me at [hpilosit](mholic.xmmb0@aleeas.com) 
-- write a private message on [Telegram](https://t.me/Shironeri_bot)
+- You can email me at [Aizawa](mholic.xmmb0@aleeas.com) 
+- write a private message on [Telegram](https://t.me/Usuzakura_bot)
 
 
 ------
