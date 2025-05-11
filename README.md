@@ -3,7 +3,7 @@
 <img align="right" src=".github/assets/banner.jpg" width="50%" height="50%" />
 
 
-## hi, i am hpilosit :3 ≽^•⩊•^≼
+## hi, i am Aizawa :3 ≽^•⩊•^≼
 咕咕咕
 <br/>
 
